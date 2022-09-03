@@ -27,8 +27,8 @@ Compared to the other deep learning models, MP using bag of words is most effect
 ### tfidf.ipynb
 Generates deep learning models of Multi-Layer Perceptron (MLP) using TF-IDF as input.
 
-### rnn_lstm.ipynb
+### word_embed_rnn_lstm.ipynb
 Generates deep learning models of RNN-LSTM using Word Embeddings as input.
 
-### cnn_lstm.ipynb
+### word_embed_cnn_lstm.ipynb
 Generates deep learning models of CNN-LSTM using Word Embeddings as input.
